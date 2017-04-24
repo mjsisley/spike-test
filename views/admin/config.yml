@@ -4,3 +4,4 @@ backend:
   branch: master # Branch to update
   site_domain: http://philatist-zebra-38714.netlify.com
   media_folder: "../assets/img/uploads"
+  public_folder: "/img/uploads"
