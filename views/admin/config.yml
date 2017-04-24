@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: mjsisley/spike-test # Path to your Github repository
+  branch: master # Branch to update
+  site_domain: http://philatist-zebra-38714.netlify.com
